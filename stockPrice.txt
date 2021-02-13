@@ -1,0 +1,9 @@
+---------- Latest Share Prices for the Bank --------------
+
+                       Price       Change       %Change     
+Justo's Bank           6.87        +0.05        +1.26%
+
+Other Banks:
+                       Price       Change       %Change
+Bank of Ireland        7.074       +0.08        +1.18%
+AIB Group              5.75        +0.022       +0.38%
